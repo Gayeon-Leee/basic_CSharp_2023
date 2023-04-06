@@ -24,4 +24,5 @@
 	- 리스트뷰, 데이터그리드 추가 학습요
 	
 3일차 윈폼 학습 결과	
-<imb src ="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms01.png" width="700">
+
+<img src="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms01.png" width="700" />
