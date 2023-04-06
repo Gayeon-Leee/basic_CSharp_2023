@@ -9,8 +9,16 @@
 	
 ## 2일차
 - C# 기본
-	- 기본 문법
+	- 기본 문법(변수, 메서드, 연산자, 제어)
 	
 - Win App
 	- Winforms vs WPF 개요
 	- Winforms 기초
+	
+## 3일차
+- C# 기본
+	- 클래스
+	
+- Win App
+	- Winforms 컨트롤
+	- 리스트뷰, 데이터그리드 추가 학습요
