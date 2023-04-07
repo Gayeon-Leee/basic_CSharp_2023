@@ -24,4 +24,21 @@
 	- 리스트뷰, 데이터그리드 추가 학습요
 	
 3일차 윈폼 학습 결과	
-<im src ="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms01.png" width="700"/>
+<img src="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms01.png" width="700"/>
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+	- 인터페이스
+
+- Win App
+	- Winforms 컨트롤 마무리
+	- Winforms 파일 복사 앱
+	- 로그인앱 실습
+	
+## 5일차
+- C# 기본
+
+- Win App
+	- winforms 디자인 오류시 해결 방법
+	- Window 탐색기 만들기
