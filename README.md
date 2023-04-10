@@ -38,7 +38,12 @@
 	
 ## 5일차
 - C# 기본
+	- 인터페이스 , 추상클래스
+	- 프로퍼티
 
 - Win App
 	- winforms 디자인 오류시 해결 방법
 	- Window 탐색기 만들기
+	
+5일차 탐색기 만들기중
+<img src="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms02.png" width="700"/>
