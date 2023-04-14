@@ -84,14 +84,28 @@
 ## 8일차
 - C# 기본
 	- 파일핸들링
-	- 스레드 / 태스크
-	- 가비지 컬렉션
+	- 윈폼 메모장(파일핸들링)
 	
 - Win App
 	- 메모장 만들기
-	- BookRentalShop DB 사용 예제
+	- BookRentalShop DB 사용 Winforms 앱개발
+		- Winforms MDI
+		- MySQl 연동
 	
 심플 메모장
 	
 <img src="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms04.png" width="700"/>	
 	
+## 9일차
+- C# 기본
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+	
+- Win App
+	- BookRentalShop 만들기 계속
+	
+## 10일차
+- Win App
+	- BookRentalShop 만들기 계속
+
+- 코딩테스트
