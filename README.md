@@ -106,6 +106,6 @@
 	
 ## 10일차
 - Win App
-	- BookRentalShop 만들기 계속
+	- BookRentalShop 만들기 마무리
 
 - 코딩테스트
