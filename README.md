@@ -109,3 +109,7 @@
 	- BookRentalShop 만들기 마무리
 
 - 코딩테스트
+
+10일차 책 대여점 프로그램
+
+<img src="https://raw.githubusercontent.com/Gayeon-Leee/basic_CSharp_2023/main/Images/winforms05.png" width="700"/>	

@@ -24,7 +24,7 @@ namespace number_4_app
             Console.Write("무지개 색은 ");
             foreach (string value in rainbow.Values)
             { 
-                Console.Write(value);   
+                Console.Write($"{value}, ");   
             }
             Console.WriteLine("입니다.");
 
